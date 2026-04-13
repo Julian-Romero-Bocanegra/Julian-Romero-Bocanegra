@@ -1,19 +1,22 @@
-# ¡Hola! Soy Julian Romero 👋
+# ¡Hola! Soy Julian Romero 👋 🚀
 Data Analyst Junior | SQL & Python Specialist | Ingeniero de Sistemas en formación
 
-Me apasiona transformar datos complejos en soluciones estratégicas y visualizaciones de alto impacto. Tengo experiencia técnica en los sectores financiero y legal, donde he optimizado procesos de limpieza y automatización de reportes masivos.
+Me apasiona transformar datos complejos en soluciones estratégicas y visualizaciones de alto impacto. Tengo experiencia técnica en los sectores financiero y legal, donde he optimizado procesos de limpieza y automatización de reportes masivos. 📈✨
 
 🛠️ Tecnologías y Herramientas
-Bases de Datos: SQL (Oracle Academy), PostgreSQL, MariaDB y Microsoft Access.
+Datos: SQL (Oracle Academy), PostgreSQL, MariaDB y Access. 🗄️ 
+Código: Python (Cisco) para análisis y Java Foundation. 🐍 
+BI: Power BI (Modelado), Excel Avanzado y procesos ETL. 📊 
+Redes: Windows Server y certificación Cisco CCNA. 🌐 
+Meotodolias Agiles: Gestión de proyectos con certificación Scrum Fundamentals.
 
-Lenguajes de Programación: Python (Cisco) enfocado en análisis de datos y Java Foundation.
+📊 En qué estoy trabajando actualmente
+🎓 Cursando 5.º semestre de Ingeniería de Sistemas.
+💼 Desempeñándome como Analista de Información en el sector financiero.
+🧹 Especializándome en procesos de Data Cleansing y automatización masiva.
 
-Análisis y Visualización: Power BI (Modelado y preparación de datos), Excel Avanzado y procesos ETL.
+📫 Contacto e Interacción
+💼 LinkedIn: linkedin.com/in/julian-romero-bocanegra 🤝
+📧 Email: felipebocanegra066@gmail.com ✉️
+📂 Portafolio: ¡Explora mis repositorios para ver mis proyectos de ETL y Dashboards! ⚡
 
-Infraestructura y Redes: Administración de Windows Server y redes Cisco (CCNA).
-
-Metodologías: Gestión de proyectos bajo marcos ágiles con certificación Scrum Fundamentals.📊 
-
-Contacto LinkedIn: linkedin.com/in/julian-romero-bocanegra \
-Email: felipebocanegra066@gmail.com \
-Portafolio: Revisa mis repositorios para ver mis proyectos de ETL y Dashboards.
