@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="JULIAN FELIPE ROMERO" src="https://github.com/user-attachments/assets/430bc355-e9ae-40fd-a208-2751aa4b1e0f" />
+
 # ¡Hola! Soy Julian Romero 👋 🚀
 Data Analyst Junior | SQL & Python Specialist | Ingeniero de Sistemas en formación
 
