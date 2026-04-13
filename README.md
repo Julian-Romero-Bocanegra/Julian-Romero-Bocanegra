@@ -16,7 +16,7 @@ Meotodolias Agiles: Gestión de proyectos con certificación Scrum Fundamentals.
 🧹 Especializándome en procesos de Data Cleansing y automatización masiva.
 
 📫 Contacto e Interacción
-💼 LinkedIn: linkedin.com/in/julian-romero-bocanegra 🤝
-📧 Email: felipebocanegra066@gmail.com ✉️
+💼 LinkedIn: linkedin.com/in/julian-romero-bocanegra 🤝 \
+📧 Email: felipebocanegra066@gmail.com ✉️ \
 📂 Portafolio: ¡Explora mis repositorios para ver mis proyectos de ETL y Dashboards! ⚡
 
