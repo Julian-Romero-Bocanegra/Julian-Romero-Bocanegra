@@ -10,10 +10,10 @@ BI: Power BI (Modelado), Excel Avanzado y procesos ETL. 📊  \
 Redes: Windows Server y certificación Cisco CCNA. 🌐 \
 Meotodolias Agiles: Gestión de proyectos con certificación Scrum Fundamentals.
 
-📊 En qué estoy trabajando actualmente
-🎓 Cursando 5.º semestre de Ingeniería de Sistemas.
-💼 Desempeñándome como Analista de Información en el sector financiero.
-🧹 Especializándome en procesos de Data Cleansing y automatización masiva.
+📊 En qué estoy trabajando actualmente \
+🎓 Cursando 5.º semestre de Ingeniería de Sistemas. \
+💼 Desempeñándome como Analista de Información en el sector financiero. \
+🧹 Especializándome en procesos de Data Cleansing y automatización masiva. \
 
 📫 Contacto e Interacción \
 💼 LinkedIn: linkedin.com/in/julian-romero-bocanegra 🤝 \
