@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="JULIAN FELIPE ROMERO" src="https://github.com/user-attachments/assets/430bc355-e9ae-40fd-a208-2751aa4b1e0f" />
+
 Me apasiona transformar datos complejos en soluciones estratégicas y visualizaciones de alto impacto. Tengo experiencia técnica en los sectores financiero y legal, donde he optimizado procesos de limpieza y automatización de reportes masivos. 📈✨
 
 🛠️ Tecnologías y Herramientas \
